@@ -1,8 +1,6 @@
 ###  Seja Bem-Vindo ao meu perfil do GitHub!!
 
 
-**PedroHDeRos/PedroHDeRos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Algumas  infor : 
 - Atualmente  estou cursando Engenharia da computaç 
 -  Estou aprendendo a linguagem de prpgramaçao C++
