@@ -3,7 +3,7 @@
 
 Algumas  infor : 
 - Atualmente  estou cursando Engenharia da computaç 
--  Estou aprendendo a linguagem de prpgramaçao C++
+-  Estou aprendendo a linguagem de programaçao C++
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true&theme=tokyonight"
