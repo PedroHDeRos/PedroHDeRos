@@ -2,8 +2,8 @@
 
 
 Algumas  infor : 
-- Atualmente  estou cursando Engenharia da computaç 
--  Estou aprendendo a linguagem de programaçao C++
+- Atualmente  estou cursando Engenharia da computação 
+-  Estou em uma jornada de aprendizado 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true&theme=tokyonight"
