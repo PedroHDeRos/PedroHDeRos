@@ -4,19 +4,14 @@
 Algumas  infor : 
 - Atualmente  estou cursando Engenharia da computação 
 -  Estou em uma jornada de aprendizado 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true" />
-</picture
 
-##
+<div>
+<a href="https://github.com/PedroHDeRos">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHDeRos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHDeRos&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
  
 <div> 
   
@@ -27,8 +22,4 @@ Algumas  infor :
   
 </div>
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
