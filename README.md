@@ -1,7 +1,7 @@
 ###  Seja Bem-Vindo ao meu perfil do GitHub!!
 
 
-Algumas  infor : 
+Algumas  informações: 
 - Atualmente  estou cursando Engenharia da computação 
 -  Estou em uma jornada de aprendizado 
 
